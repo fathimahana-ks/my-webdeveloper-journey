@@ -1,3 +1,5 @@
+/*https://appbrewery.github.io/grid-sizing/*/
+
 .grid-container {
   display: grid;
   grid-template-columns: auto 400px minmax(200px, 500px);
