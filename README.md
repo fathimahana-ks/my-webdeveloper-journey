@@ -17,7 +17,7 @@ Everything in this repo is a snapshot of where I am in my journey — not perfec
 
 - HTML, CSS, JavaScript
 - Responsive design
-- Frameworks and libraries (coming soon)
+- Bootstrap
 - Backend tools and databases (also on the way!)
 - …and whatever excites me next
 
